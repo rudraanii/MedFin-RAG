@@ -1,7 +1,7 @@
 # MedFin-RAG — Retrieval-Augmented Q&A for Healthcare & Finance Documents
 
 A production-style RAG (Retrieval-Augmented Generation) service that answers
-natural-language questions strictly from uploaded domain documents — clinical
+natural-language questions strictly from uploaded domain documents clinical
 guidelines, insurance policies, financial reports, compliance filings, etc.
 Built to eliminate hallucination risk by grounding every answer in retrieved
 source text, and to return citations alongside the answer.
